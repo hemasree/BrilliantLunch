@@ -1,0 +1,34 @@
+
+.mainDiv {
+    height: 720px;
+    display: flex;
+}
+
+.innerDiv1 {
+    float: left;
+    width: 125px;
+}
+
+.innerDiv2 {
+    width: 600px;
+    height: 720px;
+    background-color: #cccccc78;
+    float: right;
+    padding: 0px 10px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+ul li {
+    position: absolute;
+    text-align: right;
+    width: 75px;
+}
+
+.innerDiv22 {
+    display: flex;
+}
+
